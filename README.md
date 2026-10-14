@@ -1,0 +1,2 @@
+# MacBright
+Boost macOS Brightness
